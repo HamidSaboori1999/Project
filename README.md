@@ -1,1 +1,1 @@
-# Project
+# Python programming language mini-projects
